@@ -1,2 +1,3 @@
-# tuesdayjs
-Tuesday JS Visual Novel Engine
+# Tuesday JS
+
+Meine Experimente mit der Tuesday JS Visual Novel Engine.
