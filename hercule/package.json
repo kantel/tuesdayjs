@@ -1,0 +1,35 @@
+{
+    "app_name": "hercule",
+    "main": "index.html",
+    "name": "hercule",
+    "webexe_settings": {
+        "blacklist": "",
+        "custom_script": "",
+        "download_dir": "/Applications",
+        "export_dir": "output",
+        "force_download": false,
+        "linux-x64": true,
+        "mac-x64": true,
+        "nw_compression_level": 0,
+        "nw_version": "0.84.0",
+        "output_pattern": "",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "whitelist": "",
+        "windows-x32": false,
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "exe_icon": "web2exe_ico.png",
+        "height": 480,
+        "icon": "web2exe_ico.png",
+        "id": "hercule",
+        "mac_icon": "web2exe_ico.png",
+        "min_height": 183,
+        "min_width": 320,
+        "position": "center",
+        "title": "Hercules Abenteuer",
+        "width": 840
+    }
+}
